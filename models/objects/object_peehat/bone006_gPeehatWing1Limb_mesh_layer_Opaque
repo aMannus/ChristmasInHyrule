@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_peehat/mat_gPeehatSkel_f3dlite_hollyleaf_layerOpaque"/>
+	<CallDisplayList Path="objects/object_peehat/bone006_gPeehatWing1Limb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

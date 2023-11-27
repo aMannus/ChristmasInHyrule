@@ -1,0 +1,25 @@
+<Skeleton Version="0" Type="Normal" LimbCount="23">
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_021"/>
+	<SkeletonLimb Path="objects/object_peehat/gPeehatSkelLimb_022"/>
+</Skeleton>
